@@ -1,3 +1,5 @@
+
+//converts csv file to JSON file
 module.exports = {
   convertCsv: data => {
     const csv = data.split(/\n/);
